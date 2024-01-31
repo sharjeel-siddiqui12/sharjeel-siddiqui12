@@ -16,7 +16,8 @@
 
 
 <br />
-<img align="right" alt="GIF" src="rick.gif" />
+<img align="right" alt="GIF" src="code.gif" />
+
 
 ### I am Sharjeel Siddiqui
 - A Website Developer & Open Source enthusiast.
