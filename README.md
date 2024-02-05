@@ -16,7 +16,7 @@
 
 
 <br />
-<img align="right" alt="GIF" src="code.gif" />
+<img align="right" alt="GIF" src="rick.gif" />
 
 
 ### I am Sharjeel Siddiqui
