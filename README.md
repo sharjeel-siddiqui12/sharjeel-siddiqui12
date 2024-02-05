@@ -25,4 +25,4 @@
 - Currently working on some of my cool side projects based on Web Development and SQL.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-⭐️ From [Sharjeel Siddiqui](https://github.com/sharjeel-siddiqui12)
+⭐️ From [Sharjeel Siddiqui](https://sharjeel-siddiqui.vercel.app/)
