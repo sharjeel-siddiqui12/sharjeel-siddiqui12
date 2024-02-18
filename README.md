@@ -12,7 +12,8 @@
 
 ###
 
-![alt](https://raw.githubusercontent.com/sharjeel-siddiqui12/sharjeel-siddiqui12/output/snake.svg)
+![pic](https://raw.githubusercontent.com/sharjeel-siddiqui12/sharjeel-siddiqui12/output/snake.svg)
+
 ###
 
 <div align="center">
