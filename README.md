@@ -21,7 +21,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sharjeel-siddiqui12/sharjeel-siddiqui12/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/sharjeel-siddiqui12/sharjeel-siddiqui12/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
