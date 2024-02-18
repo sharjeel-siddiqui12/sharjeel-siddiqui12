@@ -77,7 +77,7 @@
   <a href="https://www.linkedin.com/in/sharjeel-siddiqui-599870248/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="39" alt="linkedin logo"  />
   </a>
-  <a href="+923122723876" target="_blank">
+  <a href="https://wa.me/+923122723876" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="56" height="39" alt="whatsapp logo"  />
   </a>
   <a href="https://twitter.com/im__Sharjeel" target="_blank">
