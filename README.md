@@ -1,4 +1,5 @@
-<h1 align="center">Hello World!!</h1>
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+
 
 ###
 
@@ -6,7 +7,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img height="200" src="rick.gif"  />
 </div>
 
