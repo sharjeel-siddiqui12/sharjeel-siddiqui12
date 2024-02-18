@@ -3,13 +3,21 @@
 
 ###
 
-<p align="left">I am Sharjeel Siddiqui...<br>- A Website Developer & Open Source enthusiast.<br>- An Information Technology Undergraduate Student.<br>- Currently working on some of my cool side projects based on Web Development and SQL.<br>- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way</p>
+<br />
+<img align="right" alt="GIF" src="rick.gif" />
 
-###
 
-<div align="right">
-  <img height="200" src="rick.gif"  />
-</div>
+### I am Sharjeel Siddiqui
+- A Website Developer & Open Source enthusiast.
+- An Information Technology Undergraduate Student. 
+- Currently working on some of my cool side projects based on Web Development and SQL.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+
+<br>
+<br>
+<hr>
+<br>
+
 
 ###
 
