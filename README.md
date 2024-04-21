@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
 ## <h1 align="center"> Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 
@@ -88,11 +86,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="56" height="39" alt="whatsapp logo"  />
   </a>
   <a href="https://twitter.com/im__Sharjeel" target="_blank">
-    <i class="fa-brands fa-x-twitter"></i>
+    <img src="x-twitter.svg" width="56" height="39" alt="twitter logo"  />
   </a>
-  <!-- <a href="https://twitter.com/im__Sharjeel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="56" height="39" alt="twitter logo"  />
-  </a> -->
 </div>
 
 ⭐️ From [Sharjeel Siddiqui](https://sharjeel-siddiqui.vercel.app/)
