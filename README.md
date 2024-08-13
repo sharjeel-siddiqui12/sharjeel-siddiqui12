@@ -14,8 +14,8 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sharjeel-siddiqui12&label=Profile%20views&color=0e75b6&style=flat" alt="sharjeel-siddiqui12" /> </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharjeel-siddiqui12&label=Profile%20views&color=0e75b6&style=flat" alt="sharjeel-siddiqui12" /> </p>
 <hr>
 <br>
 
