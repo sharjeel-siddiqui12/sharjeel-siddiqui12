@@ -1,5 +1,8 @@
-## <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sharjeel Siddiqui</h1>
+<!-- ## <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sharjeel Siddiqui</h1> -->
 
+<p align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Sharjeel;A+passionate+MERN+Stack+Developer." />
+</p>
 
 ###
 
