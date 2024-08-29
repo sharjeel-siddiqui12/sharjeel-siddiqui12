@@ -1,7 +1,7 @@
 <!-- ## <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sharjeel Siddiqui</h1> -->
 
 <p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Sharjeel;A+passionate+MERN+Stack+Developer." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=50&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Sharjeel;A+passionate+MERN+Stack+Developer." />
 </p>
 
 ###
@@ -10,7 +10,8 @@
 <img align="right" alt="Coding" width="400" style="border-radius:20px;" 
 src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" />
 
-<br />
+<br>
+<br>
 
 - 👋 Hi, I’m Sharjeel Siddiqui...
 - 👀 I’m interested in Programming and Coding ....
@@ -33,6 +34,8 @@ src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea795
 <br>
 <hr>
 <br>
+
+
 
 
 ###
