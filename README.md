@@ -93,6 +93,8 @@ src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea795
 <hr>
 <br>
 
+<h2 align="center">Connect with me:</h2>
+
 <div align="center">
   <a href="mailto:sharjeelsiddiqui00@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="56" height="39" alt="gmail logo"  />
