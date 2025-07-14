@@ -19,10 +19,9 @@ src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea795
 - A passionate MERN Developer from Karachi, Pakistan❤️
 - ⛳️ MY 2024 Goal is to become a full stack developer..
 
-
-<!-- 
+<!--
 - A Website Developer & Open Source enthusiast.
-- An Information Technology Undergraduate Student. 
+- An Information Technology Undergraduate Student.
 - Currently working on some of my cool side projects based on Web Development and SQL.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way. -->
 
@@ -31,9 +30,6 @@ src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea795
 <br>
 <hr>
 <br>
-
-
-
 
 ###
 
@@ -57,6 +53,8 @@ src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea795
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="60" alt="jquery logo"  />
   <img width="15" />
@@ -89,7 +87,6 @@ src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea795
 <hr>
 <br>
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharjeel-siddiqui12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_public=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="210" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharjeel-siddiqui12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" /> <br>
@@ -97,10 +94,10 @@ src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea795
 </div>
 
 ###
+
 <br>
 <hr>
 <br>
-
 
 <div align="center">
   <a href="mailto:sharjeelsiddiqui00@gmail.com" target="_blank">
