@@ -1,125 +1,191 @@
-<!-- ## <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sharjeel Siddiqui</h1> -->
-
-<p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=50&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Sharjeel+Siddiqui;A+passionate+MERN+Stack+Developer." />
-</p>
-
-###
-
-<br />
-<img align="right" alt="Coding" width="400" style="border-radius:20px;" 
-src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" />
-
-- 👋 Hi, I’m Sharjeel Siddiqui...
-- 👀 I’m interested in Programming and Coding ....
-- 🌱 I’m currently learning MERN Stack Development....
-- 💞️ I’m always looking forward to collaborate on projects..
-- 📫 How to reach me gmail: sharjeelsiddiqui00@gmail.com...
-- 👨‍💻 All of my projects are available at https://github.com/sharjeel-siddiqui12?tab=repositories....
-- A passionate MERN Developer from Karachi, Pakistan❤️
-- ⛳️ MY 2024 Goal is to become a full stack developer..
-
-<!--
-- A Website Developer & Open Source enthusiast.
-- An Information Technology Undergraduate Student.
-- Currently working on some of my cool side projects based on Web Development and SQL.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way. -->
-
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sharjeel-siddiqui12&label=Profile%20views&color=0e75b6&style=flat" alt="sharjeel-siddiqui12" /> </p>
-<br>
-<hr>
-<br>
-
-###
-
-<!-- <img src="https://raw.githubusercontent.com/sharjeel-siddiqui12/sharjeel-siddiqui12/output/snake.svg" alt="Snake animation" /> -->
-
-###
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharjeel-siddiqui12" alt="sharjeel-siddiqui12" /></a> </p>
-
-<br>
-<hr>
-<br>
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="60" alt="jquery logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="60" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" alt="wordpress logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
 
-  <!-- <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="60" height="60"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> </p> -->
-</div>
+# Muhammad Sharjeel Siddiqui
 
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Express;Building+Scalable+Full-Stack+Web+Apps;3%2B+Internships+%7C+10%2B+Production+Projects)](https://git.io/typing-svg)
 
-<br>
-<hr>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharjeel-siddiqui12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_public=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="210" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharjeel-siddiqui12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=sharjeel-siddiqui12&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
-
-###
-
-<br>
-<hr>
-<br>
-
-<div align="center">
-  <a href="mailto:sharjeelsiddiqui00@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="56" height="39" alt="gmail logo"  />
+<p>
+  <a href="https://sharjeelsiddiqui.info" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/sharjeel.siddiqui15" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="56" height="39" alt="facebook logo"  />
+  <a href="https://www.linkedin.com/in/sharjeel-siddiqui-ss/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/sharjeel_.siddiqui._/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="56" height="39" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sharjeel-siddiqui-599870248/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="39" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/+923122723876" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="56" height="39" alt="whatsapp logo"  />
+  <a href="mailto:sharjeelsiddiqui00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/im__Sharjeel" target="_blank">
-    <img src="x-twitter.svg" width="56" height="39" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  <a href="https://wa.me/923122723876" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sharjeel-siddiqui12&label=Profile+Views&color=6C63FF&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/sharjeel-siddiqui12?label=Followers&style=flat-square&color=6C63FF)
+
 </div>
 
-⭐️ From [Sharjeel Siddiqui](https://sharjeel-siddiqui.vercel.app/)
+---
 
-###
+## 👨‍💻 About Me
+
+> *MERN Stack Developer from Karachi, Pakistan — building responsive, production-grade web applications that solve real problems.*
+
+- 🎓 **BS Information Technology** — Bahria University Karachi Campus 
+- 💼 **4+ work experiences** across startups, government organizations & NGOs
+- 🚀 **10+ production projects** delivered end-to-end
+- 🌐 Strong in both **frontend craft** and **full-stack architecture**
+- 📍 **Available** for full-time roles & freelance collaborations
+- 🔗 Portfolio: [sharjeelsiddiqui.info](https://sharjeelsiddiqui.info)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SPARQL](https://img.shields.io/badge/SPARQL-00A98F?style=for-the-badge&logo=w3c&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+<table>
+  <tr>
+    <td>🏢</td>
+    <td><strong>Frontend Developer Intern</strong> — Cropmentum LLC</td>
+    <td><em>Jul 2025 – Oct 2025</em></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      Developed 15+ production-ready UI components using Next.js, CSS Modules & shadcn/ui. Built Admin, Vendor, and Bank role-based dashboards. Improved mobile responsiveness by <strong>98%</strong> across 3 major portals.
+    </td>
+  </tr>
+  <tr><td colspan="3"><br/></td></tr>
+  <tr>
+    <td>✈️</td>
+    <td><strong>Web Development Intern</strong> — Pakistan Airports Authority (PAA)</td>
+    <td><em>Nov 2024 – Jan 2025</em></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      Designed & developed a full touring and travel booking website. Implemented responsive layouts using React, Bootstrap & custom CSS with structured UI flows for package browsing and booking.
+    </td>
+  </tr>
+  <tr><td colspan="3"><br/></td></tr>
+  <tr>
+    <td>🌍</td>
+    <td><strong>MERN Stack Intern</strong> — Humanity Alliance Organization (Remote)</td>
+    <td><em>Jul 2024 – Sep 2024</em></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      Built and maintained full-stack modules with React, Node.js, Express.js & MongoDB. Optimized front-end performance, reducing page load times and improving UX metrics.
+    </td>
+  </tr>
+  <tr><td colspan="3"><br/></td></tr>
+  <tr>
+    <td>💡</td>
+    <td><strong>Custom & WordPress Web Developer</strong> — IT-O-LOGY</td>
+    <td><em>Jan 2023 – Nov 2023</em></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      Managed 6+ concurrent client projects — business websites, landing pages, and marketing platforms. Customized WordPress themes/plugins and handled full client-facing project cycles.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **[Giants Business Consultants](https://github.com/sharjeel-siddiqui12)** — Final Year Project | React, Tailwind CSS, .NET Core | Multi-role enterprise system (Consultant, Ambassador, Admin) with LMS, MLM commissions, lead management & real-time communication |
+| **[Smart Data Storage Manager](https://github.com/sharjeel-siddiqui12)** | React, Node.js, Oracle | Distributed systems dashboard with disk management, chunk allocation, load testing & health reporting |
+| **[Personal Finance Management System](https://github.com/sharjeel-siddiqui12)** | React, Tailwind, Node.js, Oracle | Budgeting, transactions, savings goals, downloadable reports & admin analytics |
+| **[Semantic Web University System](https://github.com/sharjeel-siddiqui12)** | Next.js, SPARQL, Apache Jena Fuseki | RDF-based academic data modeling with semantic querying |
+| **[Car Auction E-Commerce](https://github.com/sharjeel-siddiqui12/Car-auction-using-PHP)** | HTML, CSS, Bootstrap, PHP, jQuery | Auction-based listings with dynamic bidding workflows and product management |
+| **[Gym Portfolio Website](https://github.com/sharjeel-siddiqui12/gym-website-using-react)** | React, Tailwind CSS | Modern responsive portfolio showcasing services, trainers & programs |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sharjeel-siddiqui12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_public=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharjeel-siddiqui12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="150" />
+
+<img src="https://streak-stats.demolab.com?user=sharjeel-siddiqui12&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sharjeel-siddiqui12&theme=tokyonight&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📜 Certifications
+
+- 🏅 **5-Day Summer Boot Camp: Intro to MERN Stack** — Bahria University Computing Society
+- 🎓 **Full-Stack Development: React, Next.js, Node.js** — Udemy
+- 🎓 **Next.js: Build Scalable React Apps** — Udemy
+- 🎓 **Developing Front-End Apps with React** — IBM (Coursera)
+- 🎓 **Advanced React** — META (Coursera)
+- 🎓 **Intro to MERN Stack** — Udemy
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+
+| Channel | Link |
+|---|---|
+| 🌐 Portfolio | [sharjeelsiddiqui.info](https://sharjeelsiddiqui.info) |
+| 📧 Email | [sharjeelsiddiqui00@gmail.com](mailto:sharjeelsiddiqui00@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/sharjeel-siddiqui-ss](https://www.linkedin.com/in/sharjeel-siddiqui-ss/) |
+| 📱 WhatsApp | [+92 312 2723876](https://wa.me/923122723876) |
+| 📍 Location | Karachi, Pakistan |
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+
+⭐️ From [Sharjeel Siddiqui](https://sharjeelsiddiqui.info) — drop a star if you find something useful!
+
+</div>
