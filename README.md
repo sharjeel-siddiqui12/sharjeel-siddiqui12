@@ -9,7 +9,9 @@
 </div>
 
 <br/>
+
 <div align="center">
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-sharjeelsiddiqui.info-7C3AED?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sharjeelsiddiqui.info/)
 <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharjeel-siddiqui)
@@ -19,6 +21,8 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-contact@sharjeelsiddiqui.info-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sharjeelsiddiqui.info)
+
+</div>
 
 </div>
 
@@ -64,17 +68,17 @@
 
 ```javascript
 const sharjeel = {
-  name:       "Muhammad Sharjeel Siddiqui",
-  title:      "MERN Stack Developer",
-  location:   "Karachi, Pakistan 🇵🇰",
-  available:  true,  // 🟢 Open to opportunities
+  name: "Muhammad Sharjeel Siddiqui",
+  title: "MERN Stack Developer",
+  location: "Karachi, Pakistan 🇵🇰",
+  available: true, // 🟢 Open to opportunities
 
   currentlyBuilding: "Giants Business Consultants",
   // ↳ Multi-role enterprise system: MLM, LMS,
   //   lead management & real-time communication
 
-  learning:   ["TypeScript", "System Design", "Docker"],
-  interests:  ["Clean Code", "UI/UX", "DB Optimization"],
+  learning: ["TypeScript", "System Design", "Docker"],
+  interests: ["Clean Code", "UI/UX", "DB Optimization"],
 
   codePhilosophy: `
     Every pixel matters.
@@ -83,12 +87,16 @@ const sharjeel = {
   `,
 
   askMeAbout: [
-    "React", "Next.js", "Node.js",
-    "MongoDB", "RESTful APIs", "Tailwind CSS"
+    "React",
+    "Next.js",
+    "Node.js",
+    "MongoDB",
+    "RESTful APIs",
+    "Tailwind CSS",
   ],
 
   reachMe: "sharjeelsiddiqui00@gmail.com",
-  portfolio: "https://sharjeelsiddiqui.info/"
+  portfolio: "https://sharjeelsiddiqui.info/",
 };
 ```
 
@@ -99,21 +107,25 @@ const sharjeel = {
 ## 🛠️ TECH ARSENAL
 
 ### 🎨 Frontend Engineering
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,sass&theme=dark&perline=9" />
 </p>
 
 ### ⚙️ Backend & APIs
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,dotnet,java&theme=dark&perline=9" />
 </p>
 
 ### 🗄️ Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle,firebase&theme=dark&perline=9" />
 </p>
 
 ### 🔧 Tools & Platforms
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,figma,postman,vercel,netlify&theme=dark&perline=9" />
 </p>
@@ -249,15 +261,15 @@ const sharjeel = {
 
 ### 🗂️ All Projects at a Glance
 
-| 🏷️ Project | 📋 Description | ⚙️ Stack | 🔗 |
-|:-----------|:--------------|:---------|:---|
-| **Giants Business Consultants** | Multi-role enterprise: MLM, LMS, franchises & real-time chat | React · Tailwind · .NET Core | [🔗](https://github.com/sharjeel-siddiqui12) |
-| **Personal Finance Tracker** | Budget tracking, savings goals & downloadable financial reports | React · Node · Express · Oracle | [🔗](https://github.com/sharjeel-siddiqui12/personal-finance-app) |
-| **Smart Data Storage Manager** | Distributed storage: disk mgmt, load simulation & health analytics | React · Node · Oracle | [🔗](https://github.com/sharjeel-siddiqui12/smart-data-storage-manager-for-distributed-database-systems) |
-| **Semantic University System** | RDF-based academic data modeling with SPARQL querying | Next.js · Node · Apache Jena | [🔗](https://github.com/sharjeel-siddiqui12) |
-| **CoreFit Gym Website** | Responsive gym portfolio with timetable, pricing & booking UI | React · Tailwind · Vite | [🌐 Live](https://core-fit.netlify.app/) |
-| **Car Auction Platform** | Auction-based car listings with dynamic bidding workflows | PHP · jQuery · Bootstrap | [🔗](https://github.com/sharjeel-siddiqui12/Car-auction-using-PHP) |
-| **Student ADHD Mgmt System** | Specialized student management system built with Java OOP | Java | [🔗](https://github.com/sharjeel-siddiqui12/Student-Management-System-for-ADHD) |
+| 🏷️ Project                      | 📋 Description                                                     | ⚙️ Stack                        | 🔗                                                                                                       |
+| :------------------------------ | :----------------------------------------------------------------- | :------------------------------ | :------------------------------------------------------------------------------------------------------- |
+| **Giants Business Consultants** | Multi-role enterprise: MLM, LMS, franchises & real-time chat       | React · Tailwind · .NET Core    | [🔗](https://github.com/sharjeel-siddiqui12)                                                             |
+| **Personal Finance Tracker**    | Budget tracking, savings goals & downloadable financial reports    | React · Node · Express · Oracle | [🔗](https://github.com/sharjeel-siddiqui12/personal-finance-app)                                        |
+| **Smart Data Storage Manager**  | Distributed storage: disk mgmt, load simulation & health analytics | React · Node · Oracle           | [🔗](https://github.com/sharjeel-siddiqui12/smart-data-storage-manager-for-distributed-database-systems) |
+| **Semantic University System**  | RDF-based academic data modeling with SPARQL querying              | Next.js · Node · Apache Jena    | [🔗](https://github.com/sharjeel-siddiqui12)                                                             |
+| **CoreFit Gym Website**         | Responsive gym portfolio with timetable, pricing & booking UI      | React · Tailwind · Vite         | [🌐 Live](https://core-fit.netlify.app/)                                                                 |
+| **Car Auction Platform**        | Auction-based car listings with dynamic bidding workflows          | PHP · jQuery · Bootstrap        | [🔗](https://github.com/sharjeel-siddiqui12/Car-auction-using-PHP)                                       |
+| **Student ADHD Mgmt System**    | Specialized student management system built with Java OOP          | Java                            | [🔗](https://github.com/sharjeel-siddiqui12/Student-Management-System-for-ADHD)                          |
 
 ---
 
@@ -342,15 +354,15 @@ jobs:
 
 <div align="center">
 
-| 🔗 Platform | 📡 Handle |
-|:-----------|:----------|
-| 🌐 Portfolio | [sharjeelsiddiqui.info](https://sharjeelsiddiqui.info/) |
-| 💼 LinkedIn | [sharjeel-siddiqui-ss](https://linkedin.com/in/sharjeel-siddiqui-ss) |
-| 📧 Email | [sharjeelsiddiqui00@gmail.com](mailto:sharjeelsiddiqui00@gmail.com) |
-| 🐦 Twitter / X | [@im__Sharjeel](https://twitter.com/im__Sharjeel) |
-| 📱 WhatsApp | [+92 312 2723876](https://wa.me/923122723876) |
-| 📸 Instagram | [@sharjeel_.siddiqui._](https://instagram.com/sharjeel_.siddiqui._/) |
-| 📘 Facebook | [sharjeel.siddiqui15](https://facebook.com/sharjeel.siddiqui15) |
+| 🔗 Platform    | 📡 Handle                                                            |
+| :------------- | :------------------------------------------------------------------- |
+| 🌐 Portfolio   | [sharjeelsiddiqui.info](https://sharjeelsiddiqui.info/)              |
+| 💼 LinkedIn    | [sharjeel-siddiqui-ss](https://linkedin.com/in/sharjeel-siddiqui-ss) |
+| 📧 Email       | [sharjeelsiddiqui00@gmail.com](mailto:sharjeelsiddiqui00@gmail.com)  |
+| 🐦 Twitter / X | [@im\_\_Sharjeel](https://twitter.com/im__Sharjeel)                  |
+| 📱 WhatsApp    | [+92 312 2723876](https://wa.me/923122723876)                        |
+| 📸 Instagram   | [@sharjeel*.siddiqui.*](https://instagram.com/sharjeel_.siddiqui._/) |
+| 📘 Facebook    | [sharjeel.siddiqui15](https://facebook.com/sharjeel.siddiqui15)      |
 
 </div>
 
