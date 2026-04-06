@@ -14,15 +14,15 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sharjeelsiddiqui.info-7C3AED?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sharjeelsiddiqui.info/)
 
-<br/>
+<!-- <br/> -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharjeel-siddiqui)
 
-<br/>
+<!-- <br/> -->
 
 [![GitHub](https://img.shields.io/badge/GitHub-sharjeel--siddiqui12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharjeel-siddiqui12)
 
-<br/>
+<!-- <br/> -->
 
 [![Email](https://img.shields.io/badge/Email-contact@sharjeelsiddiqui.info-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sharjeelsiddiqui.info)
 
