@@ -77,10 +77,6 @@ const sharjeel = {
   location: "Karachi, Pakistan 🇵🇰",
   available: true, // 🟢 Open to opportunities
 
- // currentlyBuilding: "Giants Business Consultants",
-  // ↳ Multi-role enterprise system: MLM, LMS,
-  //   lead management & real-time communication
-
   learning: ["TypeScript", "System Design", "Docker"],
   interests: ["Clean Code", "UI/UX", "DB Optimization"],
 
