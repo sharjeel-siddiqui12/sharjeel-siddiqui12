@@ -271,7 +271,7 @@ const sharjeel = {
   <img alt="Snake animation" src="https://raw.githubusercontent.com/sharjeel-siddiqui12/sharjeel-siddiqui12/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-> ⚠️ **To enable the snake animation:** Create a GitHub Action in `.github/workflows/snake.yml` — see setup instructions below ↓
+<!-- > ⚠️ **To enable the snake animation:** Create a GitHub Action in `.github/workflows/snake.yml` — see setup instructions below ↓
 
 </div>
 
@@ -306,7 +306,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-</details>
+</details> -->
 
 ---
 
