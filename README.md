@@ -9,7 +9,7 @@
 </div>
 
 <br/>
-
+<div align="center">
 [![Portfolio](https://img.shields.io/badge/Portfolio-sharjeelsiddiqui.info-7C3AED?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sharjeelsiddiqui.info/)
 <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharjeel-siddiqui)
