@@ -10,14 +10,10 @@
 
 <br/>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sharjeelsiddiqui.info-00e5ff?style=for-the-badge&labelColor=0d1b2a&color=00e5ff)](https://sharjeelsiddiqui.info/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a)](https://linkedin.com/in/sharjeel-siddiqui-ss)
-[![Email](https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a)](mailto:sharjeelsiddiqui00@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1b2a)](https://wa.me/923122723876)
-[![Twitter](https://img.shields.io/badge/Twitter/X-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1b2a)](https://twitter.com/im__Sharjeel)
-[![Views](https://komarev.com/ghpvc/?username=sharjeel-siddiqui12&label=Profile+Views&color=00e5ff&style=for-the-badge&labelColor=0d1b2a)](https://github.com/sharjeel-siddiqui12)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sharjeelsiddiqui.info-7C3AED?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sharjeelsiddiqui.info/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharjeel-siddiqui)
+[![GitHub](https://img.shields.io/badge/GitHub-sharjeel--siddiqui12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharjeel-siddiqui12)
+[![Email](https://img.shields.io/badge/Email-contact@sharjeelsiddiqui.info-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sharjeelsiddiqui.info)
 
 </div>
 
