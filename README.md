@@ -56,7 +56,7 @@
 ║   🗄️  Database     │ MongoDB / MySQL / Oracle                            ║
 ║   🛠️  Tools        │ Git / VS Code / WordPress / Postman                 ║
 ║   📦  Projects     │ 10+ Production Apps Shipped                         ║
-║   🏢  Internships  │ 3x (, PAA, HAO, IT-O-LOGY)               ║
+║   🏢  Internships  │ 3x (PAA, HAO, IT-O-LOGY)               ║
 ║   🌐  Portfolio    │ sharjeelsiddiqui.info                               ║
 ║   📧  Contact      │ sharjeelsiddiqui00@gmail.com                        ║
 ║   🟢  Status       │ AVAILABLE FOR HIRE                                  ║
@@ -208,12 +208,7 @@ const sharjeel = {
 ║                    PROFESSIONAL EXPERIENCE                           ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-<!-- ║  Jul 2025 ─ Oct 2025                                                 ║
-║  ▶ 🏢 Frontend Developer Intern @ Cropmentum LLC · Karachi (Onsite)  ║
-║    ├─ Developed 15+ production-ready UI components                   ║
-║    ├─ Built Admin, Vendor & Bank role-based dashboards               ║
-║    ├─ Improved mobile responsiveness by 98% across 3 portals         ║
-║    └─ Stack: Next.js · CSS Modules · shadcn/ui · TypeScript          ║ -->
+║       
 ║                                                                      ║
 ║  Nov 2024 ─ Jan 2025                                                 ║
 ║  ▶ ✈️ Web Dev Intern @ Pakistan Airports Authority (PAA) · Onsite    ║
